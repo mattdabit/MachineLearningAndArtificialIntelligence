@@ -19,3 +19,5 @@ dependencies:
   - ipykernel
   - python-kaleido>=0.2.1
   - pytorch==2.5.1
+  - xlrd==2.0.1
+  - graphviz==13.1.0
