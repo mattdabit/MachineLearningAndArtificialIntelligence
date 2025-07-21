@@ -21,3 +21,4 @@ dependencies:
   - pytorch==2.5.1
   - xlrd==2.0.1
   - graphviz==13.1.0
+  - scikit-optimize==0.10.2
