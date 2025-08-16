@@ -22,3 +22,4 @@ dependencies:
   - xlrd==2.0.1
   - graphviz==13.1.0
   - scikit-optimize==0.10.2
+  - nltk==3.9.1
